@@ -39,9 +39,7 @@ def Calculate_return_metrics(start_price, current_dividend, share_price_increase
     print('')
 
 
-# shell
-
-#shell.start_price
+#start_price
 Calculate_return_metrics(34,4,3,3,20,12,0.5)
 #no_shares = 200000 / original_price
 #total_portfolio_value = (discounted_flow + current_price) * no_shares
